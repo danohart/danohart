@@ -23,6 +23,6 @@
 ### Let's Connect!
 - 🔗 LinkedIn: [linkedin.com/in/danohart](https://www.linkedin.com/in/danohart/)
 - 🌐 Portfolio: [danielhart.co](https://danielhart.co)
-- 📧 Email: [hello@danielhart.com](mailto:hello@danielhart.co)
+- 📧 Email: [hello@danielhart.co](mailto:hello@danielhart.co)
 
 Let's build something amazing together! Feel free to reach out for collaboration opportunities or just to chat about all things web development and design. 😊
