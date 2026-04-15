@@ -34,7 +34,7 @@ from Fortune 500s to fast-growing startups.
 
 ## 📈 Career Highlights
 
-- 🚀 **Bump Boxes** — Led React/Next.js platform migration that increased checkout conversion by **40%** and grew ARR from **$200K → $1M+**
+- 🚀 **Bump Boxes** — Led React platform migration that increased checkout conversion by **40%** and grew ARR from **$200K → $1M+**
 - 🎓 **Discovery Education** — Modernized a legacy EdTech platform serving **millions of K-12 students**, reducing page load times by **20%**
 - 🏢 **Grainger (Fortune 500)** — Contributed to enterprise platform redesign for a B2B eCommerce site serving **millions of users**
 - 🍺 **Anheuser-Busch InBev** — Delivered a production-ready brand website in **8 weeks** using React and Contentful headless CMS
@@ -46,9 +46,6 @@ from Fortune 500s to fast-growing startups.
 
 ### [HelloChicago.com](http://hellochicago.com)
 City guide platform built with a custom Node.js/Express API, Tailwind CSS, and third-party integrations for local business data and geolocation.
-
-### [HelloAvondale.com](http://helloavondale.com)
-Neighborhood platform using Next.js SSR, GraphQL, and MongoDB — with real-time data features and performance-focused caching strategies.
 
 ---
 
