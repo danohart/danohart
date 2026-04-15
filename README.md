@@ -38,13 +38,13 @@ from Fortune 500s to fast-growing startups.
 - 🎓 **Discovery Education** — Modernized a legacy EdTech platform serving **millions of K-12 students**, reducing page load times by **20%**
 - 🏢 **Grainger (Fortune 500)** — Contributed to enterprise platform redesign for a B2B eCommerce site serving **millions of users**
 - 🍺 **Anheuser-Busch InBev** — Delivered a production-ready brand website in **8 weeks** using React and Contentful headless CMS
-- 🎵 **Natural Music** — Founded and built a subscription SaaS platform from scratch, growing to **300+ subscribers** and **$50K+ ARR**
+- 🎵 **Natural Music** — Founded and built a subscription SaaS platform from scratch, growing to **300+ subscribers** and **$80K+ ARR**
 
 ---
 
 ## 🔨 Featured Projects
 
-### [HelloChicago.com](http://hellochicago.com)
+### [HelloChicago.co](http://hellochicago.co)
 City guide platform built with a custom Node.js/Express API, Tailwind CSS, and third-party integrations for local business data and geolocation.
 
 ---
